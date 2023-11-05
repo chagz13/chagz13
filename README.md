@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chagz13
-- 👀 I’m interested in C#, PHP and a little bit of JavaScript
-- 🌱 I’m currently learning C# and PHP
+- 👀 I’m interested in Python, PHP and a little bit of JavaScript
+- 🌱 I’m currently learning Python and PHP
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me brightchagz@gmail.com
 
